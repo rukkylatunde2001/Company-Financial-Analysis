@@ -27,4 +27,6 @@ The analysis was conducted using Python
 - Findings and recommendation
 
 ## Analysis
-All analysis are in the ipynb file ![](Introduction_page)
+All analysis are in the ipynb file [Company Financial Data Analysis.ipynb](Company%20Financial%20Data%20Analysis.ipynb)
+
+
